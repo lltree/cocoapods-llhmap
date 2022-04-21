@@ -17,7 +17,7 @@ module Pod
     # @todo Create a PR to add your plugin to CocoaPods/cocoapods.org
     #       in the `plugins.json` file, once your plugin is released.
     #
-    class llhmap < Command
+    class Llhmap < Command
       self.summary = 'Short description of cocoapods-llhmap.'
 
       self.description = <<-DESC
